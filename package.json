@@ -12,6 +12,6 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@sitespeed.io/plugin-lighthouse": "github:sitespeedio/plugin-lighthouse",
-    "sitespeed.io": "^15.9.0"
+    "sitespeed.io": "^38.3.0"
   }
 }
